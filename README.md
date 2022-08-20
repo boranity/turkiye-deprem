@@ -1,2 +1,4 @@
-# deprem
-Son 500 depremi terminalde görüntüleyebileceğiniz bir script
+# Gerekli Modüller
+```pip3 install requests```
+
+```pip3 install bs4```
